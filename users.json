@@ -1,0 +1,27 @@
+[
+    {
+        "user_id": "1d52edf4e30cbc9b61214b5b",
+        "name": "Praharshitha",
+        "email": "praharshitha656@gmail.com",
+        "salt": "55daf50f2808dda52cf612fd28c7eb23",
+        "password_hash": "4aab1d774bed034dbba2c92617d744db00d961172aed2d7e8e1ae49ff990397d",
+        "created_at": "2026-06-09T23:22:43",
+        "preferences": {
+            "theme": {
+                "mode": "Light",
+                "background_color": "#FFFFFF",
+                "text_color": "#111827",
+                "button_color": "#2563EB"
+            },
+            "last_expected_output": [
+                "Flyer",
+                "Brochure",
+                "Report",
+                "Reel Content",
+                "Caption"
+            ]
+        },
+        "remember_token_hash": "453a6efd118787a12a6459bee22cd48d49ef71d1bc651b243da3cdacfe742f5c",
+        "remember_token_expires_at": "2026-07-22T05:51:51"
+    }
+]
